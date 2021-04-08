@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+我叫何冠峰，工作在北京的北方人。长期致力于Unity3D游戏开发，也是MotionFramework开源框架的作者。   
+本人擅长游戏框架，游戏架构，游戏性能优化，游戏技术选型和各类解决方案，以及团队组建。  
+如果您也是开源社区的维护者，可以加入QQ群654986302，这里有很多志同道合的小伙伴。
+
 <!--
 **gmhevinci/gmhevinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
