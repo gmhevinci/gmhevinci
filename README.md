@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 一枚生活工作在北京的北方猿人。
+- 😄 来自地球的程序猿。
 - 🌱 长期致力于Unity3D游戏开发，也是MotionFramework开源框架的作者。   
 - 👯 如果您也喜欢MotionFramework，可以加入QQ群654986302
 
