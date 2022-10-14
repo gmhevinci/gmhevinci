@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 来自地球的程序猿。
-- 🌱 长期致力于Unity3D游戏开发，也是MotionFramework开源框架的作者。   
-- 👯 如果您也喜欢MotionFramework，可以加入QQ群654986302
+- 🌱 长期致力于Unity3D游戏开发，YooAsset资源系统的作者，UniFramework游戏框架的作者，MotionFramework游戏框架的作者。   
+- 👯 这是我们的开源社区，可以加入QQ群654986302交流~~
 
 <!--
 **gmhevinci/gmhevinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
