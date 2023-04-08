@@ -2,7 +2,7 @@
 
 - 😄 火鸡程序猿
 - 🌱 长期致力于Unity3D游戏开发，YooAsset资源系统的作者。   
-- 👯 这是我们的开源社区，可以加入QQ群654986302交流~~
+- 👯 这是我们的开源社区，可以加入QQ群963240451交流~~
 
 <!--
 **gmhevinci/gmhevinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
