@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 火鸡程序猿
-- 🌱 长期致力于Unity3D游戏开发，YooAsset资源系统的作者，UniFramework游戏框架的作者，MotionFramework游戏框架的作者。   
+- 🌱 长期致力于Unity3D游戏开发，YooAsset资源系统的作者。   
 - 👯 这是我们的开源社区，可以加入QQ群654986302交流~~
 
 <!--
